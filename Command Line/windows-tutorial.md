@@ -23,8 +23,31 @@ To go back to the top of the directory, enter `cd/`.
 
 You can also run programs from the command line. First, navigate to the directory of a file that has a `.exe.` suffix. Then, enter the name of the file (including `.exe`).
 
+### Creating Files
+
+Make a new text file. To do this, enter `echo.>newfile.txt` from your working directory. This will create a new file named `newfile.txt` in your directory.
+
+To add a file with some content, enter `echo Some content >newfile.txt`. Open your file by entering `newfile.txt`.
+
+You can delete your file by entering `del newfile.txt`.
+
+Now, create a new directory inside "My Documents" by entering the following command: `mkdir DirectoryName`. Open "My Documents" in the Explorer and find your new directory.
+
+Rename your file by entering `ren DirectoryName NewName`. Validate your work by viewing the directory in Explorer.
+
+
 ### Analyzing the Filesystem
 
 You can do a number of other things to files in the filesystem using Command Prompt commands. First, navigate to a directory (Downloads is a good one) and then enter `dir`.
 
 You should see a list of all the files in the "Downloads" directory.
+
+You can redirect the output of a command line prompt to a text file to create a log of command prompt activity.
+
+Enter this command: `dir /all > log.txt`. What happened? Validate the output.
+
+### Challenges
+
+Use `ipconfig` to log the network settings to a text file.
+
+Create a Python file (use the `.py` suffix). Include the code `print("This is a Python file.")`. You can run the code by typing `python filename.py`.
