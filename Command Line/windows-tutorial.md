@@ -50,4 +50,10 @@ Enter this command: `dir /all > log.txt`. What happened? Validate the output.
 
 Use `ipconfig` to log the network settings to a text file.
 
-Create a Python file (use the `.py` suffix). Include the code `print("This is a Python file.")`. You can run the code by typing `python filename.py`.
+Create a Python file (use the `.py` suffix). Include the code `print("This is a Python file.")`. You can run the code by typing `python filename.py`. What is the output?
+
+Look up the command `ping` using your web browser. What does it do? Log the results to a `log.txt` file.
+
+Let me know when you reach this point.
+
+
