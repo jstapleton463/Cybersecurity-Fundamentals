@@ -44,7 +44,7 @@ You should see a list of all the files in the "Downloads" directory.
 
 You can redirect the output of a command line prompt to a text file to create a log of command prompt activity.
 
-Enter this command: `dir /all > log.txt`. What happened? Validate the output.
+Enter this command: `dir > log.txt`. What happened? Validate the output.
 
 ### Challenges
 
