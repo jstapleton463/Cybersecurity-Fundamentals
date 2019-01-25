@@ -9,8 +9,11 @@ This lab will be similar to our lab with Windows Command Prompt. However, you wi
 ### Getting Set Up:
 
 1.) Follow this link to the [Virginia Cyber Range registration page](https://console.virginiacyberrange.net/register)
+
 2.) Sign in with Google, and use this code to register for the course: `2VH3HXAEHZUE`
+
 3.) Find the *Kali Linux Virtual Machine Environment* in the course exercises.
+
 4.) Click the "play" button to join the virtual machine. If the browser blocks it, click into the omnibox and enable pop-ups.
 
 The Kali Linux virtual machine is a remote computing system (as in, it is somewhere else, not in the classroom with us). We are connecting to it over the internet, and controlling the operating system as if we were in the room with it.
